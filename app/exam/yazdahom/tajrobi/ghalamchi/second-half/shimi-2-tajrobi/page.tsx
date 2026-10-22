@@ -53,10 +53,10 @@ export default function Shimi2ChaptersPage() {
       examName: 'آزمون جامع فصل دوم: پیوندها و انرژی شیمیایی',
       examQuestionCount: 25,
       lessons: [
-        { id: 5, name: 'درس ۲-۱: مفهوم دما ،گرما  ، انرژی', description: 'مفهوم آنتالپی، تشخیص واکنش‌های گرماگیر و گرمازا و محاسبات مربوطه', questionCount: 10, slug: 'lesson5' },
-        { id: 6, name: 'درس ۲-۲: ظرفیت گرمایی و گرمایی ویژه', description: 'قانون هس، آنتالپی استاندارد تشکیل، آنتالپی استاندارد سوختن و محاسبات', questionCount: 12, slug: 'lesson6' },
-        { id: 7, name: 'درس ۲-۳: جاری شدن انرژی گرمایی', description: 'عوامل مؤثر بر سرعت واکنش، نظریه برخورد و انرژی فعال‌سازی', questionCount: 8, slug: 'lesson7' },
-        { id: 8, name: 'درس ۲-۴: ترموشیمی', description: 'تأثیر دما، غلظت، سطح تماس و کاتالیزور بر سرعت واکنش‌ها', questionCount: 8, slug: 'lesson8' },
+        { id: 5, name: 'درس ۲-۱: مفهوم دما ،گرما  ، انرژی', description: 'مفهوم آنتالپی، تشخیص واکنش‌های گرماگیر و گرمازا و محاسبات مربوطه', questionCount: 10, slug: 'lesson8' },
+        { id: 6, name: 'درس ۲-۲: ظرفیت گرمایی و گرمایی ویژه', description: 'قانون هس، آنتالپی استاندارد تشکیل، آنتالپی استاندارد سوختن و محاسبات', questionCount: 12, slug: 'lesson9' },
+        { id: 7, name: 'درس ۲-۳: جاری شدن انرژی گرمایی', description: 'عوامل مؤثر بر سرعت واکنش، نظریه برخورد و انرژی فعال‌سازی', questionCount: 8, slug: 'lesson10' },
+        { id: 8, name: 'درس ۲-۴: ترموشیمی', description: 'تأثیر دما، غلظت، سطح تماس و کاتالیزور بر سرعت واکنش‌ها', questionCount: 8, slug: 'lesson11' },
       ]
     },
     {
@@ -68,9 +68,9 @@ export default function Shimi2ChaptersPage() {
       examName: 'آزمون جامع فصل سوم: پوشاک، نیازی پایان‌ناپذیر',
       examQuestionCount: 25,
       lessons: [
-        { id: 9, name: 'درس ۳-۱: کربن‌ها و ترکیب‌های آلی', description: 'ساختار اتم کربن، ترکیب‌های آلی، گروه‌های عاملی و شناسایی آن‌ها', questionCount: 12, slug: 'lesson9' },
-        { id: 10, name: 'درس ۳-۲: استرها و پلی‌استرها', description: 'تشکیل استر، هیدرولیز استر، پلی‌استرها و کاربردهای آن‌ها در صنعت نساجی', questionCount: 10, slug: 'lesson10' },
-        { id: 11, name: 'درس ۳-۳: پلی‌آمیدها و الیاف', description: 'پلی‌آمیدها، ساختار نایلون، الیاف مصنوعی و طبیعی و تفاوت آن‌ها', questionCount: 8, slug: 'lesson11' },
+        { id: 9, name: 'درس ۳-۱: الیافت و درشت مولکول ها', description: 'ساختار اتم کربن، ترکیب‌های آلی، گروه‌های عاملی و شناسایی آن‌ها', questionCount: 12, slug: 'lesson12' },
+        { id: 10, name: 'درس ۳-۲: استرها و پلی‌استرها', description: 'تشکیل استر، هیدرولیز استر، پلی‌استرها و کاربردهای آن‌ها در صنعت نساجی', questionCount: 10, slug: 'lesson13' },
+        { id: 11, name: 'درس ۳-۳: پلی‌آمیدها و الیاف', description: 'پلی‌آمیدها، ساختار نایلون، الیاف مصنوعی و طبیعی و تفاوت آن‌ها', questionCount: 8, slug: 'lesson14' },
       ]
     },
     {
